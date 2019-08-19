@@ -1,5 +1,5 @@
 ![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Heading-Quimica.png)
-![](imagenes/IntroQ.PNG)
+![](/imagenes/IntroQ.png)
 
 ## Bienvenido al curso de Programación.
 
