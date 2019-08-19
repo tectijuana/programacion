@@ -1,5 +1,5 @@
 ![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Heading-Quimica.png)
-![](IntroQ.PNG)
+![](imagenes/IntroQ.PNG)
 
 ## Bienvenido al curso de Programación.
 
@@ -13,7 +13,7 @@ La programación es indispensable para reducir los tiempos empleados al evaluar 
 
 ### Temario
 
-![](PtemarioQ.PNG)
+![](imagenes/PtemarioQ.PNG)
 
 [Temario oficial](http://itvillahermosa.edu.mx/docs/oferta/ingquimica/temario2010/1ERSEMESTRE/Programacion.pdf).
 
