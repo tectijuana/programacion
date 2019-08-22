@@ -7,9 +7,6 @@ Esta asignatura aporta al perfil del Ingeniero Químico los elementos para formu
 
 La programación es indispensable para reducir los tiempos, al evaluar problemas que requieren cálculos a detalle o ingeniería de detalle. Proporciona las herramientas necesarias para facilitar el manejo de datos y variables que requieren ser controladas en un sistema.
 
-Esta asignatura aporta al perfil del Ingeniero Químico, los elementos para formular, evaluar y resolver problemas involucrados en el desarrollo de proyectos relacionados con los procesos unitarios y de producción.
-
-
 ### Temario
 
 ![](imagenes/PtemarioQ.PNG)
@@ -31,14 +28,14 @@ Las unidades de esfuerzo academico, se esta considerando una estudiante sin comp
 
 1. Internet basico de 1 mb minimo (aplica celular 3G) 
 
-2. Prestamo de 1 USB en el bloque 2 para ejecutar el Sistema Operativo Linux, este será formateado, ligero uso de 10 dias a finales de Febrero. Al traerlo considerar que se borrará todos los datos favor de respaldar.
+2. Prestamo de un USB en el bloque 2 para ejecutar el Sistema Operativo Linux, este será formateado. Al traerlo considerar que se borrará todos los datos favor de respaldar.
 
-3. Cuenta institucional @tectijuana.edu.mx
+3. Cuenta institucional @tectijuana.edu.mx, esa se la proporciona su coordinador o mismo centro de computo.
 
-4. Smarthphone Android con Wifi o Iphone 5S minimo disponible en algun momento para sus pruebas
+4. Smarthphone Android con Wifi o Iphone 5S minimo disponible en algun momento para sus pruebas, mas no obligatorio.
 
 ### Actividad de inicio del primer dia
-1. Presentación
+1. Presentación y la necesidad de didivir el grupo en 2 salas de laboratorio.
 2. Descubre tu estilo de aprendizaje https://www.learning-styles-online.com/inventory/questions.php
 3. Llenar el formulario de ficha de estudiante https://goo.gl/forms/ZMfjBNACLYa782gE3
 
@@ -47,7 +44,8 @@ Las unidades de esfuerzo academico, se esta considerando una estudiante sin comp
 2. ¿Que es MarkDown? https://en.wikipedia.org/wiki/Markdown
 3. Editor en linea de MD  https://stackedit.io/  y otro mas existen
 4. Tablas con MarkDown  https://www.tablesgenerator.com/markdown_tables
-5. Crear tu cuenta de GITHUB.com y la importancia de no olvidar la password.
+5. Crear tu cuenta de GITHUB.com y la importancia de no olvidar la password, para lo bloquear la internet por la seguridad "anti-hackeo" que cuenta el portal. Esta será con su correo personal, procure usar la misma constraseña de siempre.
+6. Portal para trabajar agosto y septiembre, es http://sololearn.com (lenguaje C++ y python) platicar con Uds. para el orden de esto pues, 2 ojos para 54 estudiantes es imposible tenemos que hacer una estrategía de equipo para salir adelante en estos objetivos. Es la 2da. vez que se da este curso, pero con un grupo de 25 el semestre pasado.
 
 ### INTERPRETES EN LINEA
 
