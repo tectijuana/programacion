@@ -9,7 +9,7 @@ La programación es indispensable para reducir los tiempos, al evaluar problemas
 
 ### Temario
 
-![](imagenes/PtemarioQ.PNG)
+![](/imagenes/PtemarioQ.PNG)
 
 [Temario oficial](http://itvillahermosa.edu.mx/docs/oferta/ingquimica/temario2010/1ERSEMESTRE/Programacion.pdf).
 
